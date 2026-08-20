@@ -1,1 +1,19 @@
+Problem 1: Grade Evaluation System
 
+
+
+
+
+Problem 2: Leap Year
+
+
+
+
+
+Problem 3: Days of the Week
+
+
+
+
+
+Problem 4: Identify the Values of Uninitialized Variables
