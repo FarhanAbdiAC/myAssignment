@@ -12,13 +12,13 @@ public class Main {
 
         System.out.println("Average Marks: " + avg);
 
-        if (average >= 90) {
+        if (avg >= 90) {
             System.out.println("Grade A");
-        } else if (average >= 70) {
+        } else if (avg >= 70) {
             System.out.println("Grade B");
-        } else if (average >= 50) {
+        } else if (avg >= 50) {
             System.out.println("Grade C");
-        } else if (average >= 30) {
+        } else if (avg >= 30) {
             System.out.println("Grade D");
         } else {
             System.out.println("Fail");
