@@ -1,16 +1,16 @@
 Problem 1: Grade Evaluation System
 
 
-public class GradeCalculator {
+public class Main {
     public static void main(String[] args) {
 
         int maths = 80;
         int science = 85;
         int history = 90;
 
-        int average = (maths + science + history) / 3;
+        int avg = (maths + science + history) / 3;
 
-        System.out.println("Average Marks: " + average);
+        System.out.println("Average Marks: " + avg);
 
         if (average >= 90) {
             System.out.println("Grade A");
